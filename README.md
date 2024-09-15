@@ -7,6 +7,7 @@ Este repositório reúne uma coleção de recursos e materiais que desenvolvo pa
 - Criação de aplicações web
 - Programação Orientada a Objetos (POO)
 - Ferramentas e frameworks modernos
+- Desenvolvimento de Aplicativos
 
 A ideia é criar um espaço colaborativo onde estudantes e profissionais possam se aprofundar no mundo do desenvolvimento de software, com exemplos práticos e desafios reais. Estou sempre aberto a sugestões e contribuições para melhorar o conteúdo.
 
