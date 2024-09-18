@@ -25,14 +25,14 @@ A ideia é criar um espaço colaborativo onde estudantes e profissionais possam 
 - **[Angular](https://angular.io/docs)**: Documentação oficial do Angular.
 - **[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**: Framework front-end para desenvolvimento responsivo.
 
-#### Desenvolvimento Backend 🔙
+#### Desenvolvimento Backend 👨🏽‍💻
 
 - **[Node.js](https://nodejs.org/en/docs/)**: Documentação do Node.js para desenvolvimento de backend.
 - **[Express](https://expressjs.com/en/starter/installing.html)**: Guia do framework Express para aplicações web.
 - **[Java](https://docs.oracle.com/en/java/)**: Documentação oficial da linguagem Java.
 - **[Spring](https://spring.io/docs)**: Framework para desenvolvimento de aplicações em Java.
 
-#### Banco de Dados 💾
+#### Banco de Dados 🎲
 
 - **[MongoDB](https://docs.mongodb.com/manual/)**: Documentação sobre o banco de dados NoSQL MongoDB.
 - **[PostgreSQL](https://www.postgresql.org/docs/)**: Documentação do banco de dados relacional PostgreSQL.
