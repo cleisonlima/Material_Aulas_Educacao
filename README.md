@@ -7,8 +7,7 @@ Este repositório reúne uma coleção de recursos e materiais que desenvolvo pa
 - Criação de **aplicações web**
 - **Programação Orientada a Objetos (POO)**
 - Ferramentas e **frameworks modernos**
-- Desenvolvimento de **Aplicativos**
-- **Data Science** e **Análise de Dados**
+- Desenvolvimento de **Aplicativos** - **[React Native](https://atlantic-vanadium-dbc.notion.site/3-A-Desenvolvimento-de-Aplicativos-1070fa2c1dad802da596fead815d5737)**
 
 A ideia é criar um espaço colaborativo onde estudantes e profissionais possam se aprofundar no mundo do desenvolvimento de software, com exemplos práticos e desafios reais. Estou sempre aberto a sugestões e contribuições para melhorar o conteúdo.
 
